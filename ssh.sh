@@ -79,19 +79,27 @@ EOF
 #Adding the banner
 
 cat << EOF > /etc/banner
-<br>
-<font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;Rezoth</font>™</b></font><br>
-<font>┊┊┊✧ </font><br>
-<font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
-<font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
-<font>✦ <font color="#FF7F50">&nbsp;NO TORRENT !!!</font></font><br>
-<font>.   ✫   .  ˚  ✦  · </font><br>
-<font> .  +  · · <font color="#33a6ff"></font></font><br>
-<font>    ✹   . <font color="#008080">&nbsp;Your privacy is our number one priority</font></font><br>
-<font>✦  · </font><br>
-<b>&nbsp;Powered by <font color="#ff5079">Rezoth™</font></b><br>
-<font>     .  +  · </font>
+<strong>
+<p style="text-align: center;"><font color="#6495ed">===</font><font color="#84a6f0">===</font>
+<font color="#9fb7f4">===</font><font color="#b9c8f7">===</font><font color="#d1dafa">===</font>
+<font color="#b9c8f7">===</font><font color="#9fb7f4">===</font><font color="#84a6f0">===</font>
+<font color="#6495ed">===</font>
+<p style="text-align: center;">𝑽𝒊𝒎𝒖𝒌𝒕𝒉𝒊 𝑶𝒔𝒉𝒂𝒅𝒂
+<p style="text-align: center;"><font color="#6495ed">===</font><font color="#84a6f0">===</font>
+<font color="#9fb7f4">===</font><font color="#b9c8f7">===</font><font color="#d1dafa">===</font>
+<font color="#b9c8f7">===</font><font color="#9fb7f4">===</font><font color="#84a6f0">===</font>
+<font color="#6495ed">===</font>
+<p style="text-align: center;"><font color="#228B22"><em>Azure</em></font>
+<p style="text-align: center;"><font color="#ff8c00">🔹  Ѡ</font><font color="#ff9f40">a</font>
+<font color="#ffb268">zu</font><font color="#ffc58d">к</font><font color="#ffd8b3">re</font>
+<font color="#ffd8b3">『</font><font color="#ffc58d">V</font><font color="#ffb268">P</font>
+<font color="#ff9f40">S</font><font color="#ff8c00">』🔹</font></strong>
+<p style="text-align: center;"><strong><font color="#DC143C">whatsapp </font></strong>https;//wa.me/+94775792013
+<strong><p style="text-align: center;"><font color="#6495ed">✓✓</font><font color="#84a6f0">✓✓</font>
+<font color="#9fb7f4">✓✓</font><font color="#b9c8f7">✓✓</font><font color="#d1dafa">✓✓</font>
+<font color="#b9c8f7">✓✓</font><font color="#9fb7f4">✓✓</font><font color="#84a6f0">✓✓</font>
+<font color="#6495ed">✓✓</font>
+</strong>
 EOF
 
 #Configuring stunnel
@@ -276,5 +284,5 @@ echo -e "${GREEN}\nExpire Date :${YELLOW} $exd ${ENDCOLOR}" ||
 echo -e "${RED}\nFailed to add default user $username please try again.${ENDCOLOR}"
 
 #exit script
-echo -e "\n${CYAN}Script installed. You can access the panel using 'menu' command. ${ENDCOLOR}\n"
+echo -e "\n${CYAN}Script installed. You can access the panel usinjg 'menu' command. ${ENDCOLOR}\n"
 echo -e "\nPress Enter key to exit"; read
