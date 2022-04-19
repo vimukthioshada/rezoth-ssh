@@ -89,9 +89,9 @@ cat << EOF > /etc/banner
 <font color="#9fb7f4">===</font><font color="#b9c8f7">===</font><font color="#d1dafa">===</font>
 <font color="#b9c8f7">===</font><font color="#9fb7f4">===</font><font color="#84a6f0">===</font>
 <font color="#6495ed">===</font>
-<p style="text-align: center;"><font color="#228B22"><em>Azure</em></font>
+<p style="text-align: center;"><font color="#228B22"><em>Ehi Hub :)</em></font>
 <p style="text-align: center;"><font color="#ff8c00">🔹  Ѡ</font><font color="#ff9f40">a</font>
-<font color="#ffb268">zu</font><font color="#ffc58d">к</font><font color="#ffd8b3">re</font>
+<font color="#ffb268">Paid</font><font color="#ffc58d">к</font><font color="#ffd8b3">:)</font>
 <font color="#ffd8b3">『</font><font color="#ffc58d">V</font><font color="#ffb268">P</font>
 <font color="#ff9f40">S</font><font color="#ff8c00">』🔹</font></strong>
 <p style="text-align: center;"><strong><font color="#DC143C">whatsapp </font></strong>https;//wa.me/+94775792013
