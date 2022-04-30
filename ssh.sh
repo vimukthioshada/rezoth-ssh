@@ -79,27 +79,21 @@ EOF
 #Adding the banner
 
 cat << EOF > /etc/banner
-<strong>
-<p style="text-align: center;"><font color="#6495ed">===</font><font color="#84a6f0">===</font>
-<font color="#9fb7f4">===</font><font color="#b9c8f7">===</font><font color="#d1dafa">===</font>
-<font color="#b9c8f7">===</font><font color="#9fb7f4">===</font><font color="#84a6f0">===</font>
-<font color="#6495ed">===</font>
-<p style="text-align: center;">𝑽𝒊𝒎𝒖𝒌𝒕𝒉𝒊 𝑶𝒔𝒉𝒂𝒅𝒂
-<p style="text-align: center;"><font color="#6495ed">===</font><font color="#84a6f0">===</font>
-<font color="#9fb7f4">===</font><font color="#b9c8f7">===</font><font color="#d1dafa">===</font>
-<font color="#b9c8f7">===</font><font color="#9fb7f4">===</font><font color="#84a6f0">===</font>
-<font color="#6495ed">===</font>
-<p style="text-align: center;"><font color="#228B22"><em>Ehi Hub :)</em></font>
-<p style="text-align: center;"><font color="#ff8c00">🔹  Ѡ</font><font color="#ff9f40">a</font>
-<font color="#ffb268">Paid</font><font color="#ffc58d">к</font><font color="#ffd8b3">:)</font>
-<font color="#ffd8b3">『</font><font color="#ffc58d">V</font><font color="#ffb268">P</font>
-<font color="#ff9f40">S</font><font color="#ff8c00">』🔹</font></strong>
-<p style="text-align: center;"><strong><font color="#DC143C">whatsapp </font></strong>https;//wa.me/+94775792013
-<strong><p style="text-align: center;"><font color="#6495ed">✓✓</font><font color="#84a6f0">✓✓</font>
-<font color="#9fb7f4">✓✓</font><font color="#b9c8f7">✓✓</font><font color="#d1dafa">✓✓</font>
-<font color="#b9c8f7">✓✓</font><font color="#9fb7f4">✓✓</font><font color="#84a6f0">✓✓</font>
-<font color="#6495ed">✓✓</font>
-</strong>
+<html><body><h2><font color="#ce00ff"><b>ҒᎪՏͲ 𝙸𝙽𝙳𝙸𝙰𝙽  ՏᎬᏙᎬᎡ</b></font></h2>
+<h3><font color="#0081ff"><b>𝙼𝚘𝚋𝚒𝚝𝚛𝚕 0 ❤️👀</b></font></h3>
+<h3><font color="#87458c"><b>🔰ɴᴏ sᴘᴀᴍ !!!</b></font></h3>
+<h3><font color="#69458f"><b>🔰ɴᴏ ᴅᴅᴏs !!!</b></font></h3>
+<h3><font color="#4b4493"><b>🔰ɴᴏ ʜᴀᴄᴋɪɴɢ !!!</b></font></h3>
+<h3><font color="#2d4496"><b>🔰ɴᴏ ᴄᴀʀᴅɪɴɢ !!!</b></font></h3>
+<h3><font color="#27639e"><b>🔰ɴᴏ ᴄᴀʀᴅɪɴɢ ᴄʏʙᴇʀ !!!</b></font></h3>
+<h3><font color="#2182a6"><b>🔰ᴍᴀx ʟᴏɢɪɴ 1 ᴅᴇᴠɪᴄᴇ/ʙɪᴛᴠɪsᴇ !!!</b></font></h3>
+<h3><font color="#1ba2ae"><b>🔰ᴀᴜᴛᴏ ᴅᴇʟᴇᴇᴛᴇ ᴍᴜʟᴛɪʟᴏɢɪɴ !!!</b></font></h3>
+<h3><font color="#14c1b6"><b>🔰ɪᴍᴘᴏʀᴛᴇᴅ ʙʏ:- ♡𝙼𝚛.𝙻𝚒𝚗𝚞𝚡</b></font></h3>
+<h4><font color="#ff1554"><b>🔰ᴍʏ ᴄᴏɴᴛᴀᴄᴛ:-
+ https://wa.me/94775792013</b></font></h4>
+<h4><font color="#ff153f"><b>🔰<br>
+Ehi Hub 🖇️⭕️
+https://t.me/EhiHub1</b></font></h4></body></html>
 EOF
 
 #Configuring stunnel
